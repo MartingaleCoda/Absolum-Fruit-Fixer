@@ -16,7 +16,7 @@ Note: This will update fruit on all save slots that match the given "old fruit c
 4. Find your save files. Typically these are in `C:\Users\YourUsername\AppData\Local\Absolum_SaveGame_Steam` if you're on Windows. If you're on Linux or Mac, you'll have to find where those are for yourself. The files are called `Save.bin` and `Save.temp.bin`.
 5. (Optional) Copy your old save files somewhere so you don't lose them. Though this code will preserve them in the `your_save_files` folder.
 6. Copy your save files to the `your_save_files` folder in the Absolum-Fruit-Fixer folder that you got from extracting the zip.
-7. Run the `fix_fruit.exe` (or in a shell `python fix_fruit.py` if you have python installed).
+7. Run the `fix_fruit.exe` (or in a shell `python fix_fruit.py` if you have python installed). Windows may give you a warning about the publisher being unknown because I'm just a random person so you'll have to tell windows it's okay to run if that's the case.
 8. You will be prompted for your old fruit count and then for the fruit count you'd like instead. Enter these values and the script will run.
 9. Copy the new `Save.bin` and `Save.temp.bin` from `patched_save_files` to the location of your existing save files and overwrite them.
 10. You can now boot up Steam and launch Absolum. You're good to go. Note that Steam's cloud save will be out of sync (because you modified a file since last playing), so just click play instead of trying to sync. Otherwise the cloud save will overwrite what you just did.
@@ -26,7 +26,7 @@ Note: This will update fruit on all save slots that match the given "old fruit c
 
 My save file has 0 fruit and I would like 10 fruit.
 
-1. Double click the .exe. Windows may give you a warning about the publisher being unknown because I'm just a random person so you'll have to tell windows it's okay to run if that's the case.
+1. Double click the .exe.
 
 ![1](https://github.com/MartingaleCoda/Absolum-Fruit-Fixer/blob/main/demo/1.png)
 
