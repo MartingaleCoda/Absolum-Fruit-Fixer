@@ -26,23 +26,29 @@ Note: This will update fruit on all save slots that match the given "old fruit c
 
 My save file has 0 fruit and I would like 10 fruit.
 
-1. Double click the .exe.
+1. I copy my files to the `your_save_files` folder.
 
 ![1](https://github.com/MartingaleCoda/Absolum-Fruit-Fixer/blob/main/demo/1.png)
 
-2. I enter my current fruit count of 0.
+![1](https://github.com/MartingaleCoda/Absolum-Fruit-Fixer/blob/main/demo/2.png)
 
-![2](https://github.com/MartingaleCoda/Absolum-Fruit-Fixer/blob/main/demo/2.png)
+2. Double click the .exe.
 
-3. I enter my desired fruit count of 10.
+![2](https://github.com/MartingaleCoda/Absolum-Fruit-Fixer/blob/main/demo/3.png)
 
-![3](https://github.com/MartingaleCoda/Absolum-Fruit-Fixer/blob/main/demo/3.png)
+3. I enter my current fruit count of 0.
 
-4. The output gives me some information about what it did.
+![3](https://github.com/MartingaleCoda/Absolum-Fruit-Fixer/blob/main/demo/4.png)
 
-![4](https://github.com/MartingaleCoda/Absolum-Fruit-Fixer/blob/main/demo/4.png)
-
-5. I copy the save files from `patched_save_files` back to my starting folder, replacing my existing ones.
+4. I enter my desired fruit count of 10.
 
 ![4](https://github.com/MartingaleCoda/Absolum-Fruit-Fixer/blob/main/demo/5.png)
+
+5. The output gives me some information about what it did.
+
+![5](https://github.com/MartingaleCoda/Absolum-Fruit-Fixer/blob/main/demo/6.png)
+
+6. I copy the files from `patched_save_files` back to my starting folder, replacing my existing ones.
+
+![6](https://github.com/MartingaleCoda/Absolum-Fruit-Fixer/blob/main/demo/7.png)
 
